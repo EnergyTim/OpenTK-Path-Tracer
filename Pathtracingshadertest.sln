@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pathtracingshadertest", "Pathtracingshadertest\Pathtracingshadertest.csproj", "{BB7CA448-F46F-418B-A0EB-DB8CD8F8CEB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB7CA448-F46F-418B-A0EB-DB8CD8F8CEB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7CA448-F46F-418B-A0EB-DB8CD8F8CEB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7CA448-F46F-418B-A0EB-DB8CD8F8CEB4}.Debug|x64.ActiveCfg = Debug|x64
+		{BB7CA448-F46F-418B-A0EB-DB8CD8F8CEB4}.Debug|x64.Build.0 = Debug|x64
+		{BB7CA448-F46F-418B-A0EB-DB8CD8F8CEB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7CA448-F46F-418B-A0EB-DB8CD8F8CEB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB7CA448-F46F-418B-A0EB-DB8CD8F8CEB4}.Release|x64.ActiveCfg = Release|x64
+		{BB7CA448-F46F-418B-A0EB-DB8CD8F8CEB4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D910136A-127D-49AC-8F91-1ED98B3DF154}
+	EndGlobalSection
+EndGlobal
