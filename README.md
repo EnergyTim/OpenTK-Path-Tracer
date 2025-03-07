@@ -13,6 +13,8 @@
 4. After launch the program will request filename. Type your required file's filename including its format (ex. testcube.stl)
 5. After this enter resolution witdh and height. Make sure they match the ones in the fragment_shader.glsl (res parameter)
 6. After that the rendering will start. A window containing real-time render will open.
-7. The 10th rendered frame will be saved to the output directory. It should be located whre the .exe file is. /bin/x64/Debug/net8.0/output
+7. The 10th rendered frame will be saved to the output directory. It should be located whre the .exe file is.
 
 ## Output directory is created when the program is launched for the first time.
+
+## Filepaths in the program.cs are relative to the .exe file. If the position of the fragment_shader.glsl etc. changes, filepaths should be edited.
