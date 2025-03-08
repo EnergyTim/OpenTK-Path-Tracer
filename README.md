@@ -20,3 +20,9 @@
 ## Output directory is created when the program is launched for the first time.
 
 ## Filepaths in the program.cs are relative to the .exe file. If the position of the fragment_shader.glsl etc. changes, filepaths should be edited accordingly.
+
+![Image638770695045742758](https://github.com/user-attachments/assets/c2f6e30d-d7fa-4f38-866a-641a6bbd19a0)
+
+![Image638770693854113139](https://github.com/user-attachments/assets/42b83472-e7e7-4f36-b774-0d405c190a78)
+
+![Image638693717173144978](https://github.com/user-attachments/assets/2fa51f71-4a9c-447e-b286-dd731cff1dc0)
