@@ -33,3 +33,12 @@ MaxBounceCount = 8 NumRaysPerPixel = 256
 
 ![rotated_view_7](https://github.com/user-attachments/assets/e9875a60-ac97-4ac8-b67e-12fca99c00c0)
 MaxBounceCount = 8 NumRaysPerPixel = 256
+
+![Image638771522014421464](https://github.com/user-attachments/assets/ce28243d-1b43-4202-8b18-d17202071f43)
+MaxBounceCount = 8 NumRaysPerPixel = 10
+
+![Image638771524387126500](https://github.com/user-attachments/assets/5ddcda33-d660-4ad4-a5a8-2c16b702733d)
+MaxBounceCount = 8 NumRaysPerPixel = 10
+
+![Image638771527227250610](https://github.com/user-attachments/assets/9ac8c8f7-a0b1-4ccc-994e-68e27e28cc41)
+MaxBounceCount = 8 NumRaysPerPixel = 10
